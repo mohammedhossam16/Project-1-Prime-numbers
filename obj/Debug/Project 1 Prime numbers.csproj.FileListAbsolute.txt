@@ -1,0 +1,8 @@
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\bin\Debug\Project 1 Prime numbers.exe.config
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\bin\Debug\Project 1 Prime numbers.exe
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\bin\Debug\Project 1 Prime numbers.pdb
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\obj\Debug\Project 1 Prime numbers.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\obj\Debug\Project 1 Prime numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\obj\Debug\Project 1 Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\obj\Debug\Project 1 Prime numbers.exe
+C:\Users\moham\Desktop\Projects\mine\Project 1 Prime numbers\obj\Debug\Project 1 Prime numbers.pdb
